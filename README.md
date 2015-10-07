@@ -12,7 +12,7 @@ The library has two main components, a Graph class, that provides the structure 
 
 Additionally, the idea is to also start building a library of graph/network algorithms.
 
-graph_board is being developed in Pythion 2.6.2 using Tkinter as graphic module, and has only been tested in Windows Vista.
+graph_board is being developed in Pythion 2.6.2 using Tkinter as graphic module, and has been tested in Windows Vista, 7, 8, 8.1, and 10; and Debian 8.0.
 
 Dependencies
 You need to have numpy installed in order to run this program
