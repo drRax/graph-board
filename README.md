@@ -1,5 +1,4 @@
 # graph-board
-Automatically exported from code.google.com/p/graph-board
 
 What's New?
 Finally the Project Wiki is finished! All the information on how to use the classes and the code has been added. Check it out to see some of the cool functionalities of the program.
